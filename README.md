@@ -1,5 +1,5 @@
 # Cleaning-data-and-the-skies
-#🌿 Ozone Pollution Analysis Across California
+🌿 Ozone Pollution Analysis Across California
 
 Author: Bushra
 Tools Used: Python, Pandas, Matplotlib, Seaborn, Folium
