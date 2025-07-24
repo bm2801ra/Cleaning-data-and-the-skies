@@ -2,7 +2,7 @@
 🌿 Ozone Pollution Analysis Across California
 
 Author: Bushra
-Tools Used: Python, Pandas, Matplotlib, Seaborn, Folium
+Tools Used: Python, Pandas, Matplotlib
 
 ---
 📌 Project Overview
@@ -31,10 +31,10 @@ As a data analyst in an environmental context, I tackled daily ozone measurement
 
 🌍 Geospatial Heatmap
 
-Using Matplotlib and Folium:
+Using Matplotlib:
 
 • Created a matrix-based heatmap from average ozone concentrations pivoted by site coordinates.
-• Built an interactive Folium map highlighting sites reporting > 0.04 ppm—visually flagging regions of concern.
+• Built an interactive heatmap highlighting sites reporting > 0.04 ppm—visually flagging regions of concern.
 • Plotted with color gradients to reflect intensity, revealing geographical clusters.
 
 
@@ -53,10 +53,5 @@ Using Matplotlib and Folium:
 
 • 📁 GitHub Repository: 
 • 🧪 DataCamp Competition Summary: 
-
-
----
-
-Let me know if you want help refining the visual layout or crafting a matching LinkedIn caption with hashtags! This is a standout project for your portfolio—sharp, analytical, and backed by environmental impact. 💼🌟
 
 
